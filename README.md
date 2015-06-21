@@ -3,6 +3,7 @@ NLog connector targeting Loggly
 
 Usage (sample App.config):
 
+```
 <?xml version="1.0" encoding="utf-8" ?>
 <configuration>
   <configSections>
@@ -27,3 +28,4 @@ Usage (sample App.config):
     <add key="LogglyTag" value="TAG" />
   </appSettings>
 </configuration>
+```
