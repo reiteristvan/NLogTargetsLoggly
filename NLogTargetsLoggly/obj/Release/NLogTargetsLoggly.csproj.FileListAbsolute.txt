@@ -1,0 +1,8 @@
+E:\Projects\NLogTargetsLoggly\NLogTargetsLoggly\bin\Release\NLogTargetsLoggly.dll
+E:\Projects\NLogTargetsLoggly\NLogTargetsLoggly\bin\Release\NLogTargetsLoggly.pdb
+E:\Projects\NLogTargetsLoggly\NLogTargetsLoggly\bin\Release\Newtonsoft.Json.dll
+E:\Projects\NLogTargetsLoggly\NLogTargetsLoggly\bin\Release\NLog.dll
+E:\Projects\NLogTargetsLoggly\NLogTargetsLoggly\bin\Release\Newtonsoft.Json.xml
+E:\Projects\NLogTargetsLoggly\NLogTargetsLoggly\bin\Release\NLog.xml
+E:\Projects\NLogTargetsLoggly\NLogTargetsLoggly\obj\Release\NLogTargetsLoggly.dll
+E:\Projects\NLogTargetsLoggly\NLogTargetsLoggly\obj\Release\NLogTargetsLoggly.pdb

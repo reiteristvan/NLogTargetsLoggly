@@ -1,0 +1,12 @@
+E:\Projects\NLogTargetsLoggly\NLogTargetsLoggly.Tests\bin\Release\NLogTargetsLoggly.Tests.dll.config
+E:\Projects\NLogTargetsLoggly\NLogTargetsLoggly.Tests\bin\Release\NLogTargetsLoggly.Tests.dll
+E:\Projects\NLogTargetsLoggly\NLogTargetsLoggly.Tests\bin\Release\NLogTargetsLoggly.Tests.pdb
+E:\Projects\NLogTargetsLoggly\NLogTargetsLoggly.Tests\bin\Release\NLog.dll
+E:\Projects\NLogTargetsLoggly\NLogTargetsLoggly.Tests\bin\Release\NLogTargetsLoggly.dll
+E:\Projects\NLogTargetsLoggly\NLogTargetsLoggly.Tests\bin\Release\Newtonsoft.Json.dll
+E:\Projects\NLogTargetsLoggly\NLogTargetsLoggly.Tests\bin\Release\NLogTargetsLoggly.pdb
+E:\Projects\NLogTargetsLoggly\NLogTargetsLoggly.Tests\bin\Release\NLog.xml
+E:\Projects\NLogTargetsLoggly\NLogTargetsLoggly.Tests\bin\Release\Newtonsoft.Json.xml
+E:\Projects\NLogTargetsLoggly\NLogTargetsLoggly.Tests\obj\Release\NLogTargetsLoggly.Tests.csprojResolveAssemblyReference.cache
+E:\Projects\NLogTargetsLoggly\NLogTargetsLoggly.Tests\obj\Release\NLogTargetsLoggly.Tests.dll
+E:\Projects\NLogTargetsLoggly\NLogTargetsLoggly.Tests\obj\Release\NLogTargetsLoggly.Tests.pdb

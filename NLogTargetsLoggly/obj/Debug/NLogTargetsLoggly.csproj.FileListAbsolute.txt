@@ -1,0 +1,9 @@
+E:\Projects\NLogTargetsLoggly\NLogTargetsLoggly\bin\Debug\NLogTargetsLoggly.dll
+E:\Projects\NLogTargetsLoggly\NLogTargetsLoggly\bin\Debug\NLogTargetsLoggly.pdb
+E:\Projects\NLogTargetsLoggly\NLogTargetsLoggly\bin\Debug\Newtonsoft.Json.dll
+E:\Projects\NLogTargetsLoggly\NLogTargetsLoggly\bin\Debug\NLog.dll
+E:\Projects\NLogTargetsLoggly\NLogTargetsLoggly\bin\Debug\Newtonsoft.Json.xml
+E:\Projects\NLogTargetsLoggly\NLogTargetsLoggly\bin\Debug\NLog.xml
+E:\Projects\NLogTargetsLoggly\NLogTargetsLoggly\obj\Debug\NLogTargetsLoggly.csprojResolveAssemblyReference.cache
+E:\Projects\NLogTargetsLoggly\NLogTargetsLoggly\obj\Debug\NLogTargetsLoggly.dll
+E:\Projects\NLogTargetsLoggly\NLogTargetsLoggly\obj\Debug\NLogTargetsLoggly.pdb
